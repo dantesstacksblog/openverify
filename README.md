@@ -1,4 +1,3 @@
-I'll help you combine everything into one comprehensive README.md file. Here's the complete document:
 
 # OpenVerify.com
 
